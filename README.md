@@ -29,3 +29,6 @@ A system design project for a Smart Parking System that allows users to find, re
 
 ##  Documentation
 The full project documentation and presentation are included in this repository.
+
+ [View Full Project Presentation](Smart-Parking-System-Design-Presentation.pdf)
+
