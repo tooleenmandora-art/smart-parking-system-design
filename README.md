@@ -1,19 +1,19 @@
 # Smart Parking System
 System Design Project
 
-## 📌 Project Overview
+##  Project Overview
 This project presents the design of a Smart Parking System that allows users to find, reserve, and pay for parking spaces in real-time.
 
 The system focuses on improving parking space utilization and reducing traffic congestion by providing real-time availability tracking and advance reservations.
 
-## 🧠 System Design Focus
+##  System Design Focus
 This project focuses on designing a scalable smart parking reservation platform including system components, user interactions, and operational workflows.
 
 The system was designed to support real-time availability tracking and efficient parking space management.
 
 ---
 
-## 👤 User Features
+##  User Features
 
 - User registration and login
 - View available parking spaces
@@ -25,7 +25,7 @@ The system was designed to support real-time availability tracking and efficient
 
 ---
 
-## 🛠 Admin Features
+##  Admin Features
 
 - Manage parking spaces
 - Monitor parking occupancy
@@ -34,7 +34,7 @@ The system was designed to support real-time availability tracking and efficient
 
 ---
 
-## 🏗 System Design Components
+##  System Design Components
 
 - Functional Requirements
 - Non-Functional Requirements
@@ -46,13 +46,13 @@ The system was designed to support real-time availability tracking and efficient
 
 ---
 
-## 📂 Project Artifacts
+##  Project Artifacts
 
 - [Presentation Slides](Smart Parking System - Car Parking Reservation App.pdf.pdf)
 
 ---
 
-## 👩‍💻 My Contribution
+##  My Contribution
 
 - Designed the system concept and architecture
 - Defined functional and non-functional requirements
@@ -61,5 +61,5 @@ The system was designed to support real-time availability tracking and efficient
 
 ---
 
-📍 University of Jeddah  
-👩‍💻 Author: Toleen Wael
+ University of Jeddah  
+ Author: Toleen Wael
